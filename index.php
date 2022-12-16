@@ -1,3 +1,3 @@
 <?php 
 
-echo "Hi Uba"
+echo str rev() 
