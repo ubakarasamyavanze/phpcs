@@ -1,3 +1,3 @@
 <?php 
 
-echo str rev()
+echo str rev() 
